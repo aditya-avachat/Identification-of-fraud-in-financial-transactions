@@ -2,7 +2,7 @@
 
 Here I developed various machine learning models and studied their performance over a imbalanced [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
 
-Models developed and studied were: 
+**Models developed and studied were:** 
 - Random forset
 - SVM
 - A shallow neural network
